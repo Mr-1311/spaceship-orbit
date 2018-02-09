@@ -165,6 +165,7 @@ public class GameWorld implements GameObject{
 
 		score = 0;
 		factor = 1;
+		live = 3;
 		isLaser = false;
 
 		enemy.reset();
