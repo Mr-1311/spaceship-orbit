@@ -21,6 +21,8 @@ public class EnemyShotHandler implements GameObject{
     private Vector2 shotPosition;
     private float shotSize, r , height;
 
+    private float angle;
+
     private float shotTime;
     private int attackType, currentScore, attackAmount, shotAngle;
     private boolean isAttackable, isAttackTypeChange;
@@ -134,7 +136,7 @@ public class EnemyShotHandler implements GameObject{
 
             if (shotTime > 1.6f){
                 shotTime = 0;
-                enemyShots.add(new Shot(shot, new Vector2(shotPosition), shotSize, shotSize, new Vector2(shotDirection()), calculateShotSpeed()));
+                enemyShots.add(new Shot(shot, new Vector2(shotPosition), shotSize, shotSize, new Vector2(shotDirection()), calculateShotSpeed(), this.angle));
             }
         }
 
@@ -184,6 +186,7 @@ public class EnemyShotHandler implements GameObject{
     private Vector2 shotDirection(){
 
         float angle = (float) Math.toRadians((int)(Math.random() * 360));
+        this.angle = angle;
         float x, y;
 
         x = (float) (SpaceshipOrbit.width/2 + r * Math.cos(angle));
@@ -194,6 +197,7 @@ public class EnemyShotHandler implements GameObject{
     private Vector2 shotDirection0(){
 
         float angle = (float) Math.toRadians((int)(Math.random() * 40) + shotAngle);
+        this.angle = angle;
         float x, y;
 
         x = (float) (SpaceshipOrbit.width/2 + r * Math.cos(angle));
@@ -211,6 +215,7 @@ public class EnemyShotHandler implements GameObject{
             angleJump = -53;
 
         float angle = (float) Math.toRadians(shotAngle + angleJump);
+        this.angle = angle;
         float x, y;
 
         x = (float) (SpaceshipOrbit.width/2 + r * Math.cos(angle));
@@ -221,6 +226,7 @@ public class EnemyShotHandler implements GameObject{
     private Vector2 shotDirection2(){
 
         float angle = (float) Math.toRadians(shotAngle + (90 * (4 - attackAmount)));
+        this.angle = angle;
         float x, y;
 
         x = (float) (SpaceshipOrbit.width/2 + r * Math.cos(angle));
