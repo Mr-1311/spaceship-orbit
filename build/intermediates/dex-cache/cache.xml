@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.5\dc65bb2f51828c58b1b2b3ac585357204d54ee5f\gdx-1.9.5.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="C:\Users\Metin\Documents\Projects\libGDX games new\spaceship orbit\android\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metin\Documents\Projects\libGDX games new\spaceship orbit\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fb120aa36cf7e45e60383ec9b7e949c12758acb0">
+        <dex dex="C:\Users\Metin\Documents\Projects\libGDX games new\spaceship orbit\android\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.5\293bbe05bfb5ca812c849e4d1f494f56509d5a6e\gdx-backend-android-1.9.5.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.2"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="C:\Users\Metin\Documents\Projects\libGDX games new\spaceship orbit\android\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.5\c8098219abfe00b849cc43d461b1105fea3a2944\gdx-box2d-1.9.5.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c8098219abfe00b849cc43d461b1105fea3a2944">
+        <dex dex="C:\Users\Metin\Documents\Projects\libGDX games new\spaceship orbit\android\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.9.5\71eba1332b3c2436d3b8e24296a0feb1c01d9e67\gdx-freetype-1.9.5.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71eba1332b3c2436d3b8e24296a0feb1c01d9e67">
+        <dex dex="C:\Users\Metin\Documents\Projects\libGDX games new\spaceship orbit\android\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+
+</items>

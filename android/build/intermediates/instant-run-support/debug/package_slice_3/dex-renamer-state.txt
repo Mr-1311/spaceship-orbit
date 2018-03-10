@@ -1,0 +1,4 @@
+#Mon Nov 13 17:49:09 EET 2017
+base.0=/home/metin/Projects/libGDX games/spaceship orbit/android/build/intermediates/transforms/dexMerger/debug/23
+renamed.0=classes.dex
+file.0=/home/metin/Projects/libGDX games/spaceship orbit/android/build/intermediates/transforms/dexMerger/debug/23/classes.dex

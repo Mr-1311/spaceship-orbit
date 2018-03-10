@@ -1,0 +1,4 @@
+GRADLE_BUILD_COMMANDS=com.android.ide.eclipse.adt.ResourceManagerBuilder,com.android.ide.eclipse.adt.PreCompilerBuilder,org.eclipse.jdt.core.javabuilder,com.android.ide.eclipse.adt.ApkBuilder
+GRADLE_FILTERS=1.0-projectRelativePath-matches-false-false-build,1.0-projectRelativePath-matches-false-false-.gradle
+GRADLE_NATURES=org.eclipse.jdt.core.javanature,com.android.ide.eclipse.adt.AndroidNature
+eclipse.preferences.version=1

@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Metin\\Documents\\Projects\\libGDX games new\\spaceship orbit\\android\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Metin\\Documents\\Projects\\libGDX games new\\spaceship orbit\\android\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "475"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "108",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "566"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Metin\\Documents\\Projects\\libGDX games new\\spaceship orbit\\android\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "52",
+                        "endOffsets": "104"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "52",
+                        "endOffsets": "103"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Thu Feb 08 00:23:32 EET 2018
+base.0=C\:\\Users\\Metin\\Documents\\Projects\\libGDX games new\\spaceship orbit\\android\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\Metin\\Documents\\Projects\\libGDX games new\\spaceship orbit\\android\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex
