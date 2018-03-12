@@ -1,9 +1,12 @@
 # Spaceship Orbit
 Cross platform mobile app built with LibGDX framework.
 
-## **Demo**
+## **Screenshots**
 
-![Image](/screenshots/space.png)
+![Image](/screenshots/menu.png)
+![Image](/screenshots/game0.png)
+![Image](/screenshots/game1.png)
+![Image](/screenshots/gameOver.png)
 
 
 ## **Build**
